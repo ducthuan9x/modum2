@@ -13,6 +13,6 @@ public class songto {
                 break;
             }
         }
-        System.out.println("là số ngto");
+            System.out.println("là số ngto");
     }
 }
